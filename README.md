@@ -1,4 +1,4 @@
-# ARAMBOIA
+# ARAMBOIA landing page
 
 Responsive single-page website for `aramboia.com.br`.
 
